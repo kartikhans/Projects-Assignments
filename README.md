@@ -1,2 +1,2 @@
 # Projects-Assignments
-These are the most interesting work which I have done so far.
+Here are some of the project codes. This all work I did during my stay at IITD.
