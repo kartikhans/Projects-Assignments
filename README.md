@@ -1,2 +1,2 @@
 # Projects-Assignments
-Here are some of the project codes. This all work I did during my stay at IITD.
+Glimpse of some project code, which I did during the stay at IITD.
